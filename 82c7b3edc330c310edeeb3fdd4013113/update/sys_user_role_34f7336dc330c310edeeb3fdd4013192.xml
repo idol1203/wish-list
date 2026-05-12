@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>yAmjwfxrGugkorHjWMh1abKgqvoIO9Tv6sPXEivSgMo=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2014984_wish_lis.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_2014984_wish_lis.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-12 05:53:34</sys_created_on>
+        <sys_id>34f7336dc330c310edeeb3fdd4013192</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2014984_wish_lis.user</sys_name>
+        <sys_package display_value="Wish List" source="x_2014984_wish_lis">82c7b3edc330c310edeeb3fdd4013113</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">82c7b3edc330c310edeeb3fdd4013113</sys_scope>
+        <sys_update_name>sys_user_role_34f7336dc330c310edeeb3fdd4013192</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-12 05:53:34</sys_updated_on>
+    </sys_user_role>
+</record_update>
